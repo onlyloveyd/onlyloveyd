@@ -5,7 +5,7 @@
 
 |  公众号   | CSDN |
 |  ----  | ----  |
-| [OpenCV or Android](https://mp.weixin.qq.com/s/AeWrLAPiw-wCzZ9WpisjFw) |[点我直达](https://blog.csdn.net/onlyloveyd)| 
+| [OpenCV or Android](https://mp.weixin.qq.com/s/AeWrLAPiw-wCzZ9WpisjFw) |[点我直达](https://onlyloveyd.blog.csdn.net)| 
 
 ### Languages and Tools:
 
