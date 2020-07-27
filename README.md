@@ -24,4 +24,4 @@
 
 
 ### Github State
-![YiDong's github stats](https://github-readme-stats.vercel.app/api?username=onlyloveyd&show_icons=true&theme=radical)
+![YiDong's github stats](https://github-readme-stats.vercel.app/api?username=onlyloveyd&show_icons=true&theme=radical&hide=contribs,prs)
