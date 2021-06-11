@@ -1,6 +1,6 @@
 ### Hello World, I'm YiDong 
 
-边缘Android开发，热爱Kotlin、Flutter以及OpenCV，运营公众号:「OpenCV or Android」
+Android 开发，热爱 Kotlin、Jetpack Compose、Flutter 以及 OpenCV，运营公众号:「OpenCV or Android」
 
 
 |  公众号   | CSDN |
