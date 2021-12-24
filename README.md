@@ -1,11 +1,11 @@
 ### Hello World, I'm YiDong 
 
-Android 开发，热爱 Kotlin、Jetpack Compose、Flutter 以及 OpenCV，运营公众号:「OpenCV or Android」
+Android 开发，热爱 Kotlin、Jetpack Compose、Flutter 以及 OpenCV，运营公众号:「AndroidKt」
 
 
 |  公众号   | CSDN |
 |  ----  | ----  |
-| [OpenCV or Android](https://mp.weixin.qq.com/s/AeWrLAPiw-wCzZ9WpisjFw) |[点我直达](https://onlyloveyd.blog.csdn.net)| 
+| [AndroidKt](https://mp.weixin.qq.com/s/AeWrLAPiw-wCzZ9WpisjFw) |[点我直达](https://onlyloveyd.blog.csdn.net)| 
 
 ### Languages and Tools:
 
